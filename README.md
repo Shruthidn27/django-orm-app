@@ -55,4 +55,4 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## RESULT
-The Programming is Excuted Successfully.
+The Program is Excuted Successfully.
